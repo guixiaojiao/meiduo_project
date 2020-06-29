@@ -1,0 +1,226 @@
+INFO 2020-06-29 03:52:28,902 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 04:02:06,805 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1913
+INFO 2020-06-29 04:02:06,826 basehttp 157 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-06-29 04:02:17,012 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-06-29 04:02:17,204 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 04:07:24,264 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 04:07:24,906 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 04:07:29,626 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-06-29 04:07:29,662 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 04:07:47,547 basehttp 157 "GET /static/index.html HTTP/1.1" 200 25804
+INFO 2020-06-29 04:13:18,971 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 04:13:19,277 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 05:34:39,241 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 05:34:39,623 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 05:43:10,948 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 05:43:11,286 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 05:43:20,198 basehttp 157 "GET /static/index.html HTTP/1.1" 304 0
+INFO 2020-06-29 05:43:23,014 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-06-29 05:43:23,036 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-06-29 05:43:23,057 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 05:43:23,063 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-06-29 05:43:23,064 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-06-29 05:43:41,839 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-06-29 05:43:41,857 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1913
+INFO 2020-06-29 05:43:41,915 basehttp 157 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2020-06-29 05:43:41,917 basehttp 157 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2020-06-29 05:43:41,917 basehttp 157 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-06-29 05:43:42,319 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-06-29 05:43:42,343 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1913
+INFO 2020-06-29 07:22:03,370 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2020-06-29 07:22:03,877 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 07:27:23,315 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 07:27:23,556 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 07:48:09,832 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 07:48:10,137 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 07:48:15,399 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-06-29 07:48:15,425 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-06-29 07:48:15,434 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 07:48:15,435 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 07:48:15,438 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2020-06-29 07:52:44,226 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 07:52:44,569 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 08:01:56,129 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 08:02:04,358 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+WARNING 2020-06-29 08:02:04,651 log 228 Not Found: /image_codes/d6fb87ad-5e26-42a5-be15-ca3a2c5497dc/
+WARNING 2020-06-29 08:02:04,653 basehttp 157 "GET /image_codes/d6fb87ad-5e26-42a5-be15-ca3a2c5497dc/ HTTP/1.1" 404 2251
+WARNING 2020-06-29 08:02:22,999 log 228 Not Found: /
+WARNING 2020-06-29 08:02:22,999 basehttp 157 "GET / HTTP/1.1" 404 2086
+INFO 2020-06-29 08:02:34,433 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+WARNING 2020-06-29 08:02:34,496 log 228 Not Found: /image_codes/f05c0ae4-7080-4f87-a6da-a1682ba12ae8/
+WARNING 2020-06-29 08:02:34,497 basehttp 157 "GET /image_codes/f05c0ae4-7080-4f87-a6da-a1682ba12ae8/ HTTP/1.1" 404 2251
+INFO 2020-06-29 08:52:32,951 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-29 08:52:33,257 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 11:11:48,194 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 11:11:51,225 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+WARNING 2020-06-29 11:11:51,310 log 228 Not Found: /image_codes/f7302a33-5cf1-4d7b-acc6-689956b4b3aa/
+WARNING 2020-06-29 11:11:51,311 basehttp 157 "GET /image_codes/f7302a33-5cf1-4d7b-acc6-689956b4b3aa/ HTTP/1.1" 404 2251
+INFO 2020-06-29 14:37:26,919 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:38:58,946 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 14:38:59,282 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:40:48,831 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 14:40:49,159 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:41:21,124 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 14:41:21,418 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:43:06,761 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 14:43:07,051 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:44:01,896 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 14:44:02,194 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:44:05,253 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+WARNING 2020-06-29 14:44:05,307 log 228 Not Found: /image_codes/12cbb1bf-f9a1-44e4-a45f-3c9f623d0367/
+WARNING 2020-06-29 14:44:05,307 basehttp 157 "GET /image_codes/12cbb1bf-f9a1-44e4-a45f-3c9f623d0367/ HTTP/1.1" 404 2457
+INFO 2020-06-29 14:44:07,637 basehttp 157 "GET /usernames/dongpeng/count/ HTTP/1.1" 200 41
+WARNING 2020-06-29 14:44:16,442 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-29 14:44:47,625 basehttp 157 "GET /usernames/dongpeng/count/ HTTP/1.1" 200 41
+INFO 2020-06-29 14:45:52,313 basehttp 157 "GET /usernames/dongpeng/count/ HTTP/1.1" 200 41
+INFO 2020-06-29 14:58:05,051 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/urls.py changed, reloading.
+INFO 2020-06-29 14:58:05,510 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 14:58:07,032 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-29 14:58:07,052 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-29 14:58:07,053 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-29 14:58:07,067 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-29 14:58:07,070 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-29 14:58:07,071 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-29 14:58:07,145 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-29 14:58:07,157 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-29 14:58:07,276 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-29 14:58:07,279 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-29 14:58:07,284 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-06-29 14:58:07,293 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-06-29 14:58:07,326 log 228 Not Found: /image_codes/7584719e-3df8-4a93-bdf6-6bcfde840945/
+WARNING 2020-06-29 14:58:07,326 basehttp 157 "GET /image_codes/7584719e-3df8-4a93-bdf6-6bcfde840945/ HTTP/1.1" 404 2653
+WARNING 2020-06-29 14:58:21,364 log 228 Not Found: /mobiles/18512832942/count/
+WARNING 2020-06-29 14:58:21,365 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 404 2584
+INFO 2020-06-29 15:00:16,910 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/urls.py changed, reloading.
+INFO 2020-06-29 15:00:17,335 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 15:00:20,605 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-29 15:00:20,639 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-29 15:00:20,643 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-29 15:00:20,643 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-29 15:00:20,649 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-29 15:00:20,653 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-29 15:00:20,655 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-29 15:00:20,656 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2020-06-29 15:00:20,697 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-06-29 15:00:20,709 log 228 Not Found: /image_codes/193e7fcd-4b14-4ac2-ab3c-4194855b3999/
+WARNING 2020-06-29 15:00:20,710 basehttp 157 "GET /image_codes/193e7fcd-4b14-4ac2-ab3c-4194855b3999/ HTTP/1.1" 404 2654
+INFO 2020-06-29 15:00:20,714 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-29 15:00:20,715 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-29 15:00:20,715 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+ERROR 2020-06-29 15:00:24,388 log 228 Internal Server Error: /mobiles/18512832942/count/
+Traceback (most recent call last):
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py", line 102, in get
+    'errmsg': 'ok',
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/http/response.py", line 561, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/serializers/json.py", line 104, in default
+    return super().default(o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'QuerySet' is not JSON serializable
+ERROR 2020-06-29 15:00:24,389 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 500 109787
+INFO 2020-06-29 15:03:16,411 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2020-06-29 15:03:16,709 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 15:03:48,299 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-29 15:03:48,323 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-29 15:03:48,336 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-29 15:03:48,340 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-29 15:03:48,341 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-29 15:03:48,342 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-29 15:03:48,424 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-29 15:03:48,426 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-29 15:03:48,433 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-29 15:03:48,434 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-29 15:03:48,436 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-06-29 15:03:48,438 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-06-29 15:03:49,248 log 228 Not Found: /image_codes/30ca4837-2a79-4cd2-b0f5-0f0876c008a8/
+WARNING 2020-06-29 15:03:49,249 basehttp 157 "GET /image_codes/30ca4837-2a79-4cd2-b0f5-0f0876c008a8/ HTTP/1.1" 404 2654
+INFO 2020-06-29 15:03:50,586 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-29 15:04:58,594 basehttp 157 "GET /usernames/dongpeng/count/ HTTP/1.1" 200 41
+INFO 2020-06-29 16:15:24,242 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 16:16:41,506 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 16:16:46,501 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-29 16:16:46,538 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-29 16:16:46,541 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-29 16:16:46,546 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-29 16:16:46,547 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-29 16:16:46,549 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-29 16:16:46,590 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-29 16:16:46,591 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-29 16:16:46,593 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-29 16:16:46,594 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-06-29 16:16:46,597 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-29 16:16:46,599 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+ERROR 2020-06-29 16:16:46,967 log 228 Internal Server Error: /image_codes/a0195d24-38ec-4159-a0af-301152176a77/
+Traceback (most recent call last):
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/views.py", line 16, in get
+    redis_cli=get_redis_connection('iamge_code')
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'iamge_code' in settings.CACHES
+ERROR 2020-06-29 16:16:46,969 basehttp 157 "GET /image_codes/a0195d24-38ec-4159-a0af-301152176a77/ HTTP/1.1" 500 98547
+ERROR 2020-06-29 16:16:56,680 log 228 Internal Server Error: /image_codes/01c2deac-1a60-4358-9121-f86ddf0c87f2/
+Traceback (most recent call last):
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/views.py", line 16, in get
+    redis_cli=get_redis_connection('iamge_code')
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/home/beefzongzi/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'iamge_code' in settings.CACHES
+ERROR 2020-06-29 16:16:56,680 basehttp 157 "GET /image_codes/01c2deac-1a60-4358-9121-f86ddf0c87f2/ HTTP/1.1" 500 98534
+INFO 2020-06-29 16:18:10,589 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/views.py changed, reloading.
+INFO 2020-06-29 16:18:10,897 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-29 16:18:13,911 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-29 16:18:13,943 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-29 16:18:13,954 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-29 16:18:13,956 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-29 16:18:13,957 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-29 16:18:13,959 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-29 16:18:14,043 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-29 16:18:14,044 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-29 16:18:14,045 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-06-29 16:18:14,050 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-29 16:18:14,050 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-29 16:18:14,051 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-29 16:18:14,370 basehttp 157 "GET /image_codes/fc5b94af-5314-470f-b47e-6bf5ab299154/ HTTP/1.1" 200 3430
+INFO 2020-06-29 16:20:46,197 basehttp 157 "GET /image_codes/6d502906-95e8-4686-9e99-00ba02d4fcbe/ HTTP/1.1" 200 3342
+INFO 2020-06-29 16:21:10,302 basehttp 157 "GET /image_codes/fc5b94af-5314-470f-b47e-6bf5ab299154/ HTTP/1.1" 200 3055

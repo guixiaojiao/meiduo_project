@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     #用户模块应用
     # 'meiduo_mall.apps.users.apps.UsersConfig',
     'users.apps.UsersConfig',
+    'verifycations.apps.VerifycationsConfig',
 
 ]
 
@@ -197,6 +198,13 @@ CACHES = {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
     },
+    "image_code": { # 图形验证码
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/2",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
 }
 SESSION_ENGINE = "django.contrib.sessions.backends.cache"
 SESSION_CACHE_ALIAS = "session"
@@ -243,3 +251,5 @@ LOGGING = {
         },
     }
 }
+# 指定用户模型类
+AUTH_USER_MODEL = 'users.User'
