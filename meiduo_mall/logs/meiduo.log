@@ -224,3 +224,104 @@ INFO 2020-06-29 16:18:14,051 basehttp 157 "GET /static/js/register.js HTTP/1.1" 
 INFO 2020-06-29 16:18:14,370 basehttp 157 "GET /image_codes/fc5b94af-5314-470f-b47e-6bf5ab299154/ HTTP/1.1" 200 3430
 INFO 2020-06-29 16:20:46,197 basehttp 157 "GET /image_codes/6d502906-95e8-4686-9e99-00ba02d4fcbe/ HTTP/1.1" 200 3342
 INFO 2020-06-29 16:21:10,302 basehttp 157 "GET /image_codes/fc5b94af-5314-470f-b47e-6bf5ab299154/ HTTP/1.1" 200 3055
+INFO 2020-06-30 02:31:22,820 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/urls.py changed, reloading.
+INFO 2020-06-30 02:31:25,318 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:32:34,609 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/views.py changed, reloading.
+INFO 2020-06-30 02:32:34,892 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:42:35,063 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/settings/dev.py changed, reloading.
+INFO 2020-06-30 02:42:35,402 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:42:54,056 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/views.py changed, reloading.
+INFO 2020-06-30 02:42:54,352 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:42:58,612 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-30 02:42:58,812 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-30 02:42:58,821 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-30 02:42:58,840 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-30 02:42:58,841 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-30 02:42:58,846 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-30 02:42:58,855 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-30 02:42:58,907 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-30 02:42:59,116 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-30 02:42:59,117 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-30 02:42:59,119 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-06-30 02:42:59,159 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-30 02:42:59,252 basehttp 157 "GET /image_codes/5da79e51-d892-41e9-96ec-b6c13eef99a7/ HTTP/1.1" 200 3173
+INFO 2020-06-30 02:43:18,684 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+WARNING 2020-06-30 02:43:18,761 log 228 Not Found: /sms_codes/18512832942/
+WARNING 2020-06-30 02:43:18,762 basehttp 157 "GET /sms_codes/18512832942/?image_code=8yfn&image_code_id=5da79e51-d892-41e9-96ec-b6c13eef99a7 HTTP/1.1" 404 3017
+INFO 2020-06-30 02:43:18,770 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-30 02:43:54,864 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/urls.py changed, reloading.
+INFO 2020-06-30 02:43:55,500 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:43:56,855 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-30 02:43:57,425 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-30 02:43:57,434 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-30 02:43:57,434 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-30 02:43:57,442 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-30 02:43:57,445 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-30 02:43:57,625 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+WARNING 2020-06-30 02:43:57,686 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-30 02:43:57,784 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-30 02:43:57,785 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-30 02:43:57,787 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-30 02:43:57,789 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-30 02:43:58,264 basehttp 157 "GET /image_codes/e62f9f58-95a4-43ac-9c10-8bb169e6cb5a/ HTTP/1.1" 200 3452
+INFO 2020-06-30 02:44:01,952 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-30 02:44:09,126 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+WARNING 2020-06-30 02:44:09,152 log 228 Not Found: /sms_codes/18512832942/
+WARNING 2020-06-30 02:44:09,153 basehttp 157 "GET /sms_codes/18512832942/?image_code=rr3k&image_code_id=e62f9f58-95a4-43ac-9c10-8bb169e6cb5a HTTP/1.1" 404 3016
+INFO 2020-06-30 02:53:28,053 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/urls.py changed, reloading.
+INFO 2020-06-30 02:53:28,348 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 02:54:52,899 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-30 02:54:52,943 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-30 02:54:52,944 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-30 02:54:52,947 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-30 02:54:52,948 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-30 02:54:52,949 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-30 02:54:52,983 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-30 02:54:52,985 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-30 02:54:52,987 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-30 02:54:52,993 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-30 02:54:52,996 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-06-30 02:54:52,999 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-30 02:54:53,661 basehttp 157 "GET /image_codes/3972fa17-6e16-47c3-891f-31496f79b017/ HTTP/1.1" 200 3086
+INFO 2020-06-30 02:54:56,455 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+WARNING 2020-06-30 02:55:37,721 log 228 Not Found: /sms_codes/18512832942/
+INFO 2020-06-30 02:55:37,723 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+WARNING 2020-06-30 02:55:37,723 basehttp 157 "GET /sms_codes/18512832942/?image_code=nf5d&image_code_id=3972fa17-6e16-47c3-891f-31496f79b017 HTTP/1.1" 404 3017
+INFO 2020-06-30 03:13:17,621 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/urls.py changed, reloading.
+INFO 2020-06-30 03:13:18,020 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 03:13:20,660 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-30 03:13:20,790 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-30 03:13:20,801 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-30 03:13:20,804 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-30 03:13:20,807 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-30 03:13:20,810 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-30 03:13:20,860 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-06-30 03:13:20,865 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-30 03:13:20,867 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+INFO 2020-06-30 03:13:20,868 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-30 03:13:20,868 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-30 03:13:20,870 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-30 03:13:21,329 basehttp 157 "GET /image_codes/c2a9a8ee-66a2-44ea-ad8a-345ff790de16/ HTTP/1.1" 200 3322
+INFO 2020-06-30 03:13:23,659 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-30 03:13:29,191 basehttp 157 "GET /image_codes/c5e107a8-43aa-4e6a-a463-0c0d5582c72e/ HTTP/1.1" 200 3315
+WARNING 2020-06-30 03:13:37,375 log 228 Not Found: /sms_codes/18512832942/
+INFO 2020-06-30 03:13:37,377 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+WARNING 2020-06-30 03:13:37,378 basehttp 157 "GET /sms_codes/18512832942/?image_code=wpfm&image_code_id=c5e107a8-43aa-4e6a-a463-0c0d5582c72e HTTP/1.1" 404 3020
+INFO 2020-06-30 03:38:45,721 autoreload 222 /home/beefzongzi/Desktop/projects/meiduo_project/meiduo_mall/meiduo_mall/apps/verifycations/urls.py changed, reloading.
+INFO 2020-06-30 03:38:46,166 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-06-30 03:38:48,989 basehttp 157 "GET /register/ HTTP/1.1" 200 4616
+INFO 2020-06-30 03:38:49,120 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-06-30 03:38:49,126 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-06-30 03:38:49,128 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2020-06-30 03:38:49,129 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2020-06-30 03:38:49,131 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-06-30 03:38:49,155 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 9786
+WARNING 2020-06-30 03:38:49,161 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-06-30 03:38:49,165 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-06-30 03:38:49,166 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-06-30 03:38:49,170 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-06-30 03:38:49,173 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-06-30 03:38:49,628 basehttp 157 "GET /image_codes/a0cc3df6-aa51-47a7-88a3-849851eb4273/ HTTP/1.1" 200 3179
+INFO 2020-06-30 03:38:51,196 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-30 03:38:57,199 basehttp 157 "GET /mobiles/18512832942/count/ HTTP/1.1" 200 41
+INFO 2020-06-30 03:38:57,214 basehttp 157 "GET /sms_codes/18512832942/?image_code=lsy8&image_code_id=a0cc3df6-aa51-47a7-88a3-849851eb4273 HTTP/1.1" 200 29
