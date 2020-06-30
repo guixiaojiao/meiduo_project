@@ -28,6 +28,15 @@ class SmsCodeView(View):
         # 接收
         uuid=request.GET.get('image_code_id')
         image_code=request.GET.get('image_code')
+
+        # 进行sms_code_flage验证
+        redis_cli = get_redis_connection('sms_code')
+        if redis_cli.get(mobile+'_flage') is not None:
+            return http.JsonResponse({
+                'code':RETCODE.SMSCODERR,
+                'errmsg':'操作频繁，稍后再试'
+            })
+
         # 验证:非空,图形验证码是否正确
         if not all([uuid,image_code]):
             return http.JsonResponse({
@@ -57,8 +66,25 @@ class SmsCodeView(View):
         sms_code='%06d'%random.randint(0,999999)
         # 存入Redis
         redis_cli=get_redis_connection('sms_code')
-        redis_cli.setex(mobile,constants.SMS_CODE_EXPIRES,sms_code)
+        # redis_cli.setex(mobile,constants.SMS_CODE_EXPIRES,sms_code)
+
+        # 写发送标记，为了防止短信验证码频发发送，前端的倒计时对于刷新网页的操作无法防止
+        # 因此在后端进行验证
+        # redis_cli.setex(mobile+'_flage',constants.SMS_CODE_FLAGE_EXPIRES,1)
+
+
+        # 优化
+        # 当需要向Redis写入多条数据时，会与其进行多次交互：效率低
+        # 解决：使用　管道　pipeline
+        # 实现：先将命令存入管道，再一次性发给redis执行
+        redis_pl = redis_cli.pipeline()
+        redis_pl.setex(mobile,constants.SMS_CODE_EXPIRES,sms_code)
+        redis_pl.setex(mobile+'_flage',constants.SMS_CODE_FLAGE_EXPIRES,1)
+        redis_pl.execute()
+
+        # 发送短信
         print(sms_code)
+
         # 响应
         return http.JsonResponse({
             'code':RETCODE.OK,

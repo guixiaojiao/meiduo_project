@@ -6,6 +6,7 @@ from meiduo_mall.utils.response_code import RETCODE
 from .models import User
 # from django.contrib.auth.models import User# 使用自带的User模型类创建用户对象是为了密码加密
 from django.contrib.auth import login
+from django_redis import get_redis_connection
 # 视图代码４大部分：１接收，２验证，３处理，４响应
 
 '''
@@ -61,7 +62,15 @@ class RegisterView(View):
         if User.objects.filter(mobile=mobile).count()>0:
             return http.HttpResponseForbidden('手机号已存在')
         # 短信验证码，作用为验证手机号为真且在正常使用
-
+        # 读取Redis中的短信验证码
+        redis_cli=get_redis_connection('sms_code')
+        sms_code_redis=redis_cli.get(mobile)
+        if sms_code_redis is None:
+            return http.HttpResponseForbidden('短信验证码过期')
+        redis_cli.delete(mobile)
+        redis_cli.delete(mobile+'_flage')
+        if sms_code_redis.decode()!=sms_code:
+            return http.HttpResponseForbidden('短信验证码错误，请重新输入')
         # 协议同意验证,if all 中已经验证完毕
 
         # 处理　创建用户对象
